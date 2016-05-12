@@ -1,17 +1,9 @@
 <style>
-#container{
-  
-  margin: 0 auto;
-    width:10px;
-   background-color:#303030;
-   
-  
-  
-}
+
 header {
     background-color:#1976D2;
     color:white;  
-   
+    padding:10px; 
     text-align:center;  
 	 font-family: 'Helvetica', 'Arial', sans-serif;
     
@@ -20,7 +12,7 @@ nav {
 text-decoration: none;
     line-height:50px;
     background-color:#2196F3;
-   
+    padding:10px;
     text-align:center;
     display: inline- block;
    color:white; 
@@ -39,7 +31,7 @@ li { display: inline-block; }
   
 }
 section {
- 
+     padding:10px;
 	 background-color:#303030;
   color: #F0F0F0;
   	height:100%;
@@ -51,9 +43,9 @@ section {
 footer {
     background-color: #212b31;
     color: #F0F0F0;
-    clear:both
+   
     text-align:center;
    
- 	font-family: 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Helvetica', 'Arial', sans-serif;
     
 }
