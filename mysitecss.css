@@ -48,6 +48,9 @@ section {
  
       
 }
+
+#silcAdminImage { visibility: hidden; }
+
 footer {
     background-color: #212b31;
     color: #F0F0F0;
