@@ -28,7 +28,13 @@
   <p>The game begins by allowing the player to fly a cube through 3D space. The goal of the game is to use the boost button to destroy the randomly generated capsules and collect the boost gems and coins they drop. Going through the floating rectangle will bring you to the next phase of the game.</p>
   <img id="scene1" src="Images/Scene1.png" alt="Scene 1" width="0%" >
   <a id="showScene1">Show Scene 1</a>
-  <script src="mySiteScript.js"></script>
+  <script>document.getElementById("showScene1").onclick = function() {
+    document.getElementById("scene1").style.visibility = "visible";
+        document.getElementById("scene1").style.width = "100%";
+        document.getElementById("showScene1").style.visibility = "hidden";
+
+}</script>
+
 
 
   <p>In this scene the player controls a cube on the ground fighting other cubes that jump at the player. If the player dies or if they press the button at the top of the screen it will lead them to the next part of the game. This was the toughest scene to program, I had some challenges getting the virtual joystick to rotate the player correctly and getting the weapon capsule and sphere to correctly follow the player without interfering with the player's model.</p>
