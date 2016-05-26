@@ -30,11 +30,11 @@ text-decoration: none;
   
 }
 
- li:hover {
+ .navigation li:hover {
     background-color: #2B60DE;
 }
 
-li { display: inline-block; }
+.navigation li { display: inline-block; }
 h2{color: #F0F0F0;}
 
 
