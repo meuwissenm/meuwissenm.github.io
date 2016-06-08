@@ -35,3 +35,15 @@ document.getElementById("scene3").onclick = function() {
               document.getElementById("showScene3").style.visibility = "visible";
 
 }
+document.getElementById("showScreenshotHandoff").onclick = function() {
+    document.getElementById("HandoffScreenshot").style.visibility = "visible";
+        document.getElementById("HandoffScreenshot").style.width = "100%";
+              document.getElementById("showScreenshotHandoff").style.visibility = "hidden";
+
+}
+document.getElementById("HandoffScreenshot").onclick = function() {
+    document.getElementById("HandoffScreenshot").style.visibility = "hidden";
+        document.getElementById("HandoffScreenshot").style.width = "0%";
+              document.getElementById("showScreenshotHandoff").style.visibility = "visible";
+
+}
