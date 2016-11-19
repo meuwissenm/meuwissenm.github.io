@@ -32,7 +32,9 @@ text-decoration: none;
 }
 
  .navigation li:hover {
+	
     background-color: #2B60DE;
+	 padding:0px;
 }
 
 .navigation li { display: inline-block; }
