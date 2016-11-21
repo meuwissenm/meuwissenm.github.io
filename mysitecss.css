@@ -21,20 +21,17 @@ nav {
 text-decoration: none;
     line-height:50px;
     background-color:#2196F3;
-    
     text-align:center;
     display: inline- block;
    color:white; 
  font-family: 'Helvetica', 'Arial', sans-serif;
-
- 
-  
+height:100%;
 }
 
  .navigation li:hover {
 	
     background-color: #2B60DE;
-	
+	height:100%;
 	
 }
 
@@ -43,15 +40,12 @@ h2{color: #F0F0F0;}
 
 html, body {  padding: 0;  margin: 0;}
 section {
-     padding:10px;
-	 background-color:#303030;
-  color: #F0F0F0;
+	background-color:#303030;
+	color: #F0F0F0;
   	height:100%;
-    overflow-y:auto;
-     font-family: 'Helvetica', 'Arial', sans-serif;
- 
-      
-}
+	overflow-y:auto;
+	font-family: 'Helvetica', 'Arial', sans-serif;    
+	}
 
 #silcAdminImage { visibility: hidden; }
 #scene1 { visibility: hidden; }
@@ -62,11 +56,7 @@ section {
 
 
 footer {
-    background-color: #212b31;
-    color: #F0F0F0;
-   
-    text-align:center;
-   
-    font-family: 'Helvetica', 'Arial', sans-serif;
-    
-}
+	background-color: #212b31;
+	color: #F0F0F0;text-align:center;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	}
