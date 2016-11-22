@@ -36,6 +36,7 @@ section {
   background-color: #303030;
   color: #F0F0F0;
   overflow-y: auto;
+  height:100%;
   font-family: 'Helvetica', 'Arial', sans-serif;
 }
 
