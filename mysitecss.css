@@ -29,6 +29,7 @@ li a {
 .navigation li:hover {
   background-color: #2B60DE;
   border-bottom: 2px solid red;
+   box-sizing: border-box;
 }
 
 .navigation li {
