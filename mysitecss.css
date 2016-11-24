@@ -16,8 +16,8 @@ nav {
   text-align: center;
   color: white;
   font-family: 'Helvetica', 'Arial', sans-serif;
-  width: auto;
-  height: auto;
+  width: 100%;
+  height: 10%;
 }
 
 nav > ul {
