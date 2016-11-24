@@ -6,6 +6,8 @@ header {
   color: white;
   text-align: center;
   font-family: 'Helvetica', 'Arial', sans-serif;
+   width: auto;
+  height: auto;
 }
 
 nav {
@@ -15,6 +17,7 @@ nav {
   color: white;
   font-family: 'Helvetica', 'Arial', sans-serif;
   width: auto;
+  height: auto;
 }
 
 nav > ul {
