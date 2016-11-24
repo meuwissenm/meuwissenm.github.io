@@ -20,16 +20,16 @@ nav > ul {
   margin: 0;
 }
 
-li a {}
-
 .navigation li:hover {
   background-color: #2B60DE;
+     border-bottom: 5px solid red;
 }
 
 .navigation li {
   display: inline-block;
   padding: 3%;
   font-size: 100%;
+  border-bottom: 5px solid #2196F3;
 }
 
 h2 {
