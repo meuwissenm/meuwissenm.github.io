@@ -17,7 +17,7 @@ nav {
   color: white;
   font-family: 'Helvetica', 'Arial', sans-serif;
   font-size:100%;
-
+  padding-bottom:2px;
 }
 
 nav > ul {
@@ -27,12 +27,13 @@ nav > ul {
 li a {
   padding-right: 10px !important;
   padding-left: 10px !important;
+  
 }
 
 .navigation li:hover {
   background-color: #2B60DE;
   border-bottom: 2px solid red;
-   box-sizing: border-box;
+  padding-bottom:0px;
 }
 
 .navigation li {
