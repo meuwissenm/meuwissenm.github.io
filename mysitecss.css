@@ -38,16 +38,18 @@ h2 {
 
 html,
 body {
-   height: 100%;
+  padding: 0;
+  margin: 0;
+  height: 100%;
 }
 
 section {
   background-color: #303030;
   color: #F0F0F0;
-  height: 100%;
   overflow-y: auto;
   font-family: 'Helvetica', 'Arial', sans-serif;
   padding: 5%;
+  height: 100%;
 }
 
 #silcAdminImage {
@@ -75,5 +77,5 @@ footer {
   color: #F0F0F0;
   text-align: center;
   font-family: 'Helvetica', 'Arial', sans-serif;
-  text-decoration: none;
+  padding: 1%;
 }
