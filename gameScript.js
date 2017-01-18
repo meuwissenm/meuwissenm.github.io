@@ -51,12 +51,14 @@ document.getElementById("showOverheadScene").onclick = function() {
     document.getElementById("overheadscene").style.visibility = "visible";
         document.getElementById("overheadscene").style.width = "100%";
                       document.getElementById("showOverheadScene").style.visibility = "hidden";
+         document.getElementById("plusSignOne").style.visibility = "hidden";
 
 }
 document.getElementById("overheadscene").onclick = function() {
     document.getElementById("overheadscene").style.visibility = "hidden";
         document.getElementById("overheadscene").style.width = "0%";
               document.getElementById("showOverheadScene").style.visibility = "visible";
+                 document.getElementById("plusSignOne").style.visibility = "visible";
 
 }
 
