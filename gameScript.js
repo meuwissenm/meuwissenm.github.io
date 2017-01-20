@@ -51,14 +51,15 @@ document.getElementById("showOverheadScene").onclick = function() {
     document.getElementById("overheadscene").style.visibility = "visible";
         document.getElementById("overheadscene").style.width = "100%";
                       document.getElementById("showOverheadScene").style.visibility = "hidden";
-          document.getElementById("plusSignOne").style.width = "0%";
+          document.getElementById("plusSignOne").style.height = "0%";
 
 }
 document.getElementById("overheadscene").onclick = function() {
     document.getElementById("overheadscene").style.visibility = "hidden";
         document.getElementById("overheadscene").style.width = "0%";
               document.getElementById("showOverheadScene").style.visibility = "visible";
-             document.getElementById("plusSignOne").style.width = "3%";
+             document.getElementById("plusSignOne").style.height = "3%";
+    
 
 }
 
