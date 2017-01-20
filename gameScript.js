@@ -2,14 +2,14 @@ document.getElementById("showScene1").onclick = function() {
     document.getElementById("scene1").style.visibility = "visible";
         document.getElementById("scene1").style.width = "100%";
         document.getElementById("showScene1").style.visibility = "hidden";
-        document.getElementById("plusSignThree").style.height = "0%";
+        document.getElementById("plusSignThree").style.width = "0%";
 
 }
 document.getElementById("scene1").onclick = function() {
     document.getElementById("scene1").style.visibility = "hidden";
         document.getElementById("scene1").style.width = "0%";
               document.getElementById("showScene1").style.visibility = "visible";
-        document.getElementById("plusSignThree").style.height = "3%";
+        document.getElementById("plusSignThree").style.width = "3%";
         
 
 }
@@ -17,56 +17,56 @@ document.getElementById("showScene2").onclick = function() {
     document.getElementById("scene2").style.visibility = "visible";
         document.getElementById("scene2").style.width = "100%";
                  document.getElementById("showScene2").style.visibility = "hidden";
-        document.getElementById("plusSignFour").style.height = "0%";
+        document.getElementById("plusSignFour").style.width = "0%";
 
 }
 document.getElementById("scene2").onclick = function() {
     document.getElementById("scene2").style.visibility = "hidden";
         document.getElementById("scene2").style.width = "0%";
               document.getElementById("showScene2").style.visibility = "visible";
-        document.getElementById("plusSignFour").style.height = "3%";
+        document.getElementById("plusSignFour").style.width = "3%";
 
 }
 document.getElementById("showScene3").onclick = function() {
     document.getElementById("scene3").style.visibility = "visible";
         document.getElementById("scene3").style.width = "100%";
           document.getElementById("showScene3").style.visibility = "hidden";
-            document.getElementById("plusSignFive").style.height = "0%";
+            document.getElementById("plusSignFive").style.width = "0%";
 
 }
 document.getElementById("scene3").onclick = function() {
     document.getElementById("scene3").style.visibility = "hidden";
         document.getElementById("scene3").style.width = "0%";
               document.getElementById("showScene3").style.visibility = "visible";
-                document.getElementById("plusSignFive").style.height = "3%";
+                document.getElementById("plusSignFive").style.width = "3%";
 
 }
 document.getElementById("showItemScene").onclick = function() {
     document.getElementById("itemscene").style.visibility = "visible";
         document.getElementById("itemscene").style.width = "100%";
              document.getElementById("showItemScene").style.visibility = "hidden";
-                  document.getElementById("plusSignTwo").style.height = "0%";
+                  document.getElementById("plusSignTwo").style.width = "0%";
 
 }
 document.getElementById("itemscene").onclick = function() {
     document.getElementById("itemscene").style.visibility = "hidden";
         document.getElementById("itemscene").style.width = "0%";
               document.getElementById("showItemScene").style.visibility = "visible";
-        document.getElementById("plusSignTwo").style.height = "3%";
+        document.getElementById("plusSignTwo").style.width = "3%";
 
 }
 document.getElementById("showOverheadScene").onclick = function() {
     document.getElementById("overheadscene").style.visibility = "visible";
         document.getElementById("overheadscene").style.width = "100%";
                       document.getElementById("showOverheadScene").style.visibility = "hidden";
-          document.getElementById("plusSignOne").style.height = "0%";
+          document.getElementById("plusSignOne").style.width = "0%";
 
 }
 document.getElementById("overheadscene").onclick = function() {
     document.getElementById("overheadscene").style.visibility = "hidden";
         document.getElementById("overheadscene").style.width = "0%";
               document.getElementById("showOverheadScene").style.visibility = "visible";
-             document.getElementById("plusSignOne").style.height = "3%";
+             document.getElementById("plusSignOne").style.width = "3%";
     
 
 }
