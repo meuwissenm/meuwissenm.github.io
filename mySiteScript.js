@@ -54,7 +54,7 @@ document.getElementById("musicSearchImage").onclick = function() {
                  document.getElementById("plusSignProgFour").style.width = "3%";
 
 }
-document.getElementById("showCode").onclick = function() {
+document.getElementById("showCodeTwo").onclick = function() {
     document.getElementById("menuSearchImage").style.visibility = "visible";
         document.getElementById("menuSearchImage").style.width = "100%";
               document.getElementById("showCodeTwo").style.visibility = "hidden";
