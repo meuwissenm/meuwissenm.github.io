@@ -9,7 +9,7 @@ document.getElementById("silcAdminImage").onclick = function() {
     document.getElementById("silcAdminImage").style.visibility = "hidden";
         document.getElementById("silcAdminImage").style.width = "0%";
             document.getElementById("showScreenshot").style.visibility = "visible";
-            document.getElementById("plusSignProg").style.width = "3%";
+            document.getElementById("plusSignProg").style.width = "2%";
 
 }
 document.getElementById("showScreenshotHandoff").onclick = function() {
@@ -23,7 +23,7 @@ document.getElementById("HandoffScreenshot").onclick = function() {
     document.getElementById("HandoffScreenshot").style.visibility = "hidden";
         document.getElementById("HandoffScreenshot").style.width = "0%";
               document.getElementById("showScreenshotHandoff").style.visibility = "visible";
-                 document.getElementById("plusSignProgTwo").style.width = "3%";
+                 document.getElementById("plusSignProgTwo").style.width = "2%";
 
 }
 document.getElementById("showScreenshotThree").onclick = function() {
@@ -37,7 +37,7 @@ document.getElementById("contextExtImage").onclick = function() {
     document.getElementById("contextExtImage").style.visibility = "hidden";
         document.getElementById("contextExtImage").style.width = "0%";
               document.getElementById("showScreenshotThree").style.visibility = "visible";
-                 document.getElementById("plusSignProgThree").style.width = "3%";
+                 document.getElementById("plusSignProgThree").style.width = "2%";
 
 }
 document.getElementById("showCode").onclick = function() {
@@ -51,7 +51,7 @@ document.getElementById("musicSearchImage").onclick = function() {
     document.getElementById("musicSearchImage").style.visibility = "hidden";
         document.getElementById("musicSearchImage").style.width = "0%";
               document.getElementById("showCode").style.visibility = "visible";
-                 document.getElementById("plusSignProgFour").style.width = "3%";
+                 document.getElementById("plusSignProgFour").style.width = "2%";
 
 }
 document.getElementById("showCodeTwo").onclick = function() {
@@ -65,7 +65,7 @@ document.getElementById("menuSearchImage").onclick = function() {
     document.getElementById("menuSearchImage").style.visibility = "hidden";
         document.getElementById("menuSearchImage").style.width = "0%";
               document.getElementById("showCodeTwo").style.visibility = "visible";
-                 document.getElementById("plusSignProgFive").style.width = "3%";
+                 document.getElementById("plusSignProgFive").style.width = "2%";
 
 }
 
