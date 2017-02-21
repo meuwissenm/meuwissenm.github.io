@@ -52,45 +52,6 @@ section {
   height: 100%;
 }
 
-#silcAdminImage {
-  visibility: hidden;
-}
-
-#scene1 {
-  visibility: hidden;
-}
-
-#scene2 {
-  visibility: hidden;
-}
-
-#scene3 {
-  visibility: hidden;
-}
-
-#HandoffScreenshot {
-  visibility: hidden;
-}
-
-#itemscene {
-  visibility: hidden;
-}
-
-#overheadscene {
-  visibility: hidden;
-}
-#plusSignOne{
-  display:inline-block 
-}
-#plusSignThree{
-  display:inline-block 
-}
-#plusSignFour{
-  display:inline-block 
-}
-#plusSignFive{
-  display:inline-block 
-}
 footer {
   background-color: #212b31;
   color: #F0F0F0;
