@@ -32,6 +32,7 @@ nav li {
   display: inline-block;
   padding: 3%;
   font-size: 100%;
+  border-radius: 25px;
   background: #10875a;
   box-shadow:  22px 22px 30px #0e744d, 
              -22px -22px 30px #129a67;
