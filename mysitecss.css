@@ -14,8 +14,10 @@ header {
 }
 
 nav {
-  background-color: #2196F3;
-  text-align: center;
+border-radius: 50px;
+background: #2d8f6a;
+box-shadow:  27px 27px 54px #267a5a, 
+             -27px -27px 54px #34a47a;
 }
 
 nav > ul {
