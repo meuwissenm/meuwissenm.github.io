@@ -15,7 +15,7 @@ header {
 
 nav {
   text-align: center;
-  background: #10875a;
+  background: #0f6142;
 }
 
 nav > ul {
@@ -30,9 +30,9 @@ box-shadow: inset 22px 22px 30px #0e744d,
 
 nav li {
   display: inline-block;
-  padding: 3%;
+  padding: 5%;
   font-size: 100%;
-  border-radius: 25px;
+  border-radius: 50px;
   background: #10875a;
   box-shadow:  22px 22px 30px #0e744d, 
              -22px -22px 30px #129a67;
