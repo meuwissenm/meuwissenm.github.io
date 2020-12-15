@@ -16,8 +16,8 @@ header {
 nav {
   text-align: center;
   background: #10875a;
-  box-shadow:  22px 22px 44px #0e734d, 
-             -22px -22px 44px #129b68;
+  box-shadow:  22px 22px 30px #0e744d, 
+             -22px -22px 30px #129a67;
 }
 
 nav > ul {
@@ -25,9 +25,9 @@ nav > ul {
 }
 
 nav li:hover {
-background: linear-gradient(145deg, #0e7a51, #119060);
-box-shadow:  22px 22px 44px #0e734d, 
-             -22px -22px 44px #129b68;
+background: #10875a;
+box-shadow: inset 22px 22px 30px #0e744d, 
+            inset -22px -22px 30px #129a67;
 }
 
 nav li {
