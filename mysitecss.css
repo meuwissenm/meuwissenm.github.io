@@ -14,7 +14,7 @@ header {
 }
 
 nav {
-  background-color: #0e734d;
+  background-color: #129b68;
   text-align: center;
 }
 
@@ -23,8 +23,7 @@ nav > ul {
 }
 
 nav li:hover {
-  background-color: #129b68;
-  border-bottom: 5px solid red;
+  background-color: #0e734d;
 }
 
 nav li {
