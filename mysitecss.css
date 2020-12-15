@@ -14,8 +14,10 @@ header {
 }
 
 nav {
-  background-color: #129b68;
   text-align: center;
+  background: #10875a;
+  box-shadow:  22px 22px 44px #0e734d, 
+             -22px -22px 44px #129b68;
 }
 
 nav > ul {
@@ -23,13 +25,16 @@ nav > ul {
 }
 
 nav li:hover {
-  background-color: #0e734d;
+background: linear-gradient(145deg, #0e7a51, #119060);
+box-shadow:  22px 22px 44px #0e734d, 
+             -22px -22px 44px #129b68;
 }
 
 nav li {
   display: inline-block;
   padding: 3%;
   font-size: 100%;
+  
 }
 
 
