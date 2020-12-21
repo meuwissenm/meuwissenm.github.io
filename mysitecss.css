@@ -32,7 +32,6 @@ nav li {
   padding: 5%;
   font-size: 100%;
   background: #0f6142;
-
 }
 
 
@@ -41,7 +40,8 @@ section {
   overflow-y: auto;
   padding: 5%;
   height: 100%;
-  max-width: 150px;
+  word-wrap: break-word;
+  width: 100px;
 }
 footer {
     background-color: #212b31;
